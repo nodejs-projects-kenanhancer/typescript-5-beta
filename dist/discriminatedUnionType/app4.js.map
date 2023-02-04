@@ -1,0 +1,1 @@
+{"version":3,"file":"app4.js","sourceRoot":"","sources":["../../src/discriminatedUnionType/app4.ts"],"names":[],"mappings":"AAWA,SAAS,WAAW,CAAC,QAAoB;IACvC,IAAI,QAAQ,CAAC,KAAK,EAAE;QAClB,OAAO,CAAC,KAAK,CAAC,QAAQ,CAAC,KAAK,CAAC,OAAO,CAAC,CAAC;QACtC,OAAO;KACR;IAED,OAAO,CAAC,GAAG,CAAC,QAAQ,CAAC,OAAO,CAAC,CAAC;AAChC,CAAC"}
