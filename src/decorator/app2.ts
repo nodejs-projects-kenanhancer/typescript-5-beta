@@ -70,4 +70,4 @@ const obj1 = new Person('Kenan');
 
 obj1.greet();
 
-// export {};
+export {};

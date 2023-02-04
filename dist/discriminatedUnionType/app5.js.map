@@ -1,1 +1,0 @@
-{"version":3,"file":"app5.js","sourceRoot":"","sources":["../../src/discriminatedUnionType/app5.ts"],"names":[],"mappings":"AAMA,SAAS,IAAI,CAAC,OAAgB;IAC5B,IAAI,SAAS,IAAI,OAAO,EAAE;QACxB,OAAO,OAAO,CAAC,OAAO,CAAC;KACxB;IAED,OAAO,OAAO,CAAC,IAAI,CAAC;AACtB,CAAC"}
